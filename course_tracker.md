@@ -150,8 +150,8 @@ A web application that collects data from sensors, processes it, presents result
 *(Add a brief entry after each session — what you learned, what surprised you, what clicked)*
 
 ### Week 1
-- **Day 1:**
-- **Day 2:**
+- **Day 1: Completed** Verified environment (Node, npm, Git, remote repo). Filled the mv/touch gap, switched terminal to Git Bash
+- **Day 2: Completed** Practiced a real branching workflow end-to-end. Created your first pull request and code review on GitHub. Set up the initial project folder structure
 - **Day 3:**
 - **Day 4:**
 - **Day 5:**

@@ -1,0 +1,37 @@
+{
+  "name": "sensor-dashboard",
+  "version": "1.0.0",
+  "description": "Sensor data collection, processing and dashboard application",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node src/backend/index.js",
+    "dev": "node --watch src/backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GpompGit/IT-Course-Beginner.git"
+  },
+  "keywords": [
+    "sensor",
+    "dashboard",
+    "iot",
+    "nodejs",
+    "vue"
+  ],
+  "author": "Guillermo Pomphile supported by AI Claude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GpompGit/IT-Course-Beginner/issues"
+  },
+  "homepage": "https://github.com/GpompGit/IT-Course-Beginner#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}

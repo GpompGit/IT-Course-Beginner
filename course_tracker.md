@@ -131,12 +131,13 @@ A web application that collects data from sensors, processes it, presents result
 ## Current Session Context
 *(This section is updated at the start/end of each daily session)*
 
-### Last completed session
-- **Date:**
-- **Week/Day:**
-- **What was accomplished:**
-- **Files created/modified:**
-- **Next session should start with:**
+Last completed session:
+
+Date: March 20, 2026
+Week/Day: Week 1, Days 1-3
+What was accomplished: Environment verified, Git branching workflow practiced, npm initialized with Express + Jest, .gitignore and npm scripts configured
+Files created/modified: .gitignore, package.json, package-lock.json, project folder structure (src/frontend, src/backend, src/database, docs)
+Next session should start with: Week 1 Day 4 — Project Architecture & Decision-Making (designing the sensor dashboard structure, first ADR)
 
 ### Open questions / blockers
 - *(none yet)*
